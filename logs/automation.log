@@ -1,0 +1,54 @@
+2026-01-23 00:07:57,493 [INFO] automation - SETUP: start browser
+2026-01-23 00:08:03,335 [INFO] automation - TC-01 START: search flights
+2026-01-23 00:08:05,468 [INFO] automation - Step: select departure and destination
+2026-01-23 00:08:05,917 [INFO] automation - Checkpoint: header contains selected cities
+2026-01-23 00:08:05,972 [INFO] automation - TC-01 END: pass
+2026-01-23 00:08:05,974 [INFO] automation - TEARDOWN: quit browser
+2026-01-23 00:08:08,101 [INFO] automation - SETUP: start browser
+2026-01-23 00:08:10,370 [INFO] automation - TC-02 START: choose flight
+2026-01-23 00:08:12,090 [INFO] automation - Step: choose first available flight
+2026-01-23 00:08:12,580 [INFO] automation - Checkpoint: purchase page header is displayed
+2026-01-23 00:08:12,771 [ERROR] automation - FAILURE: screenshot saved to reports\screenshots\test_tc02_choose_flight_opens_purchase_page_20260123_000812_706554.png
+2026-01-23 00:08:12,771 [INFO] automation - TEARDOWN: quit browser
+2026-01-23 00:08:14,903 [INFO] automation - SETUP: start browser
+2026-01-23 00:08:17,144 [INFO] automation - TC-03 START: complete purchase
+2026-01-23 00:08:19,281 [INFO] automation - Step: fill passenger details and purchase
+2026-01-23 00:08:20,177 [INFO] automation - Checkpoint: confirmation header appears
+2026-01-23 00:08:20,222 [INFO] automation - TC-03 END: pass
+2026-01-23 00:08:20,223 [INFO] automation - TEARDOWN: quit browser
+2026-01-23 00:11:35,349 [INFO] automation - SETUP: start browser
+2026-01-23 00:11:37,744 [INFO] automation - TC-01 START: search flights
+2026-01-23 00:11:38,851 [INFO] automation - Step: select departure and destination
+2026-01-23 00:11:39,924 [INFO] automation - Checkpoint: header contains selected cities
+2026-01-23 00:11:39,975 [INFO] automation - TC-01 END: pass
+2026-01-23 00:11:39,976 [INFO] automation - TEARDOWN: quit browser
+2026-01-23 00:11:42,118 [INFO] automation - SETUP: start browser
+2026-01-23 00:11:44,533 [INFO] automation - TC-02 START: choose flight
+2026-01-23 00:11:46,046 [INFO] automation - Step: choose first available flight
+2026-01-23 00:11:46,386 [INFO] automation - Checkpoint: purchase page header is displayed
+2026-01-23 00:11:46,550 [ERROR] automation - FAILURE: screenshot saved to reports\screenshots\test_tc02_choose_flight_opens_purchase_page_20260123_001146_488791.png
+2026-01-23 00:11:46,550 [INFO] automation - TEARDOWN: quit browser
+2026-01-23 00:11:48,674 [INFO] automation - SETUP: start browser
+2026-01-23 00:11:51,053 [INFO] automation - TC-03 START: complete purchase
+2026-01-23 00:11:53,496 [INFO] automation - Step: fill passenger details and purchase
+2026-01-23 00:11:54,265 [INFO] automation - Checkpoint: confirmation header appears
+2026-01-23 00:11:54,280 [INFO] automation - TC-03 END: pass
+2026-01-23 00:11:54,282 [INFO] automation - TEARDOWN: quit browser
+2026-01-23 00:13:04,784 [INFO] automation - SETUP: start browser
+2026-01-23 00:13:07,031 [INFO] automation - TC-01 START: search flights
+2026-01-23 00:13:07,629 [INFO] automation - Step: select departure and destination
+2026-01-23 00:13:08,774 [INFO] automation - Checkpoint: header contains selected cities
+2026-01-23 00:13:08,823 [INFO] automation - TC-01 END: pass
+2026-01-23 00:13:08,823 [INFO] automation - TEARDOWN: quit browser
+2026-01-23 00:13:10,964 [INFO] automation - SETUP: start browser
+2026-01-23 00:13:13,245 [INFO] automation - TC-02 START: choose flight
+2026-01-23 00:13:14,704 [INFO] automation - Step: choose first available flight
+2026-01-23 00:13:15,083 [INFO] automation - Checkpoint: purchase page header is displayed
+2026-01-23 00:13:15,136 [INFO] automation - TC-02 END: pass
+2026-01-23 00:13:15,137 [INFO] automation - TEARDOWN: quit browser
+2026-01-23 00:13:17,257 [INFO] automation - SETUP: start browser
+2026-01-23 00:13:19,503 [INFO] automation - TC-03 START: complete purchase
+2026-01-23 00:13:21,420 [INFO] automation - Step: fill passenger details and purchase
+2026-01-23 00:13:22,245 [INFO] automation - Checkpoint: confirmation header appears
+2026-01-23 00:13:22,266 [INFO] automation - TC-03 END: pass
+2026-01-23 00:13:22,267 [INFO] automation - TEARDOWN: quit browser
